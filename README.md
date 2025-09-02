@@ -1,7 +1,6 @@
 # ❌⭕ Tic Tac Toe
 
 A classic Tic Tac Toe game built using HTML, CSS, and JavaScript, created to practice DOM manipulation, event handling, and basic game logic.  
-
 This project closely follows a YouTube tutorial and doesn’t include major custom improvements — it was made purely to learn game development basics in JS.
 
 ## ✨ Features
@@ -29,11 +28,10 @@ tic-tac-toe/
 1. Clone or download this repository.  
 2. Open `index.html` in any modern browser.  
 3. Click on any tile to make your move — game alternates between O and X.  
-4. When someone wins, the winning line is highlighted.  
-5. Click Restart to play again.  
+4. When someone wins, the winning line is highlighted. 
 
 ## 📸 Screenshot
-
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/6710d10f-a033-4e39-9777-b35891a717bf" />
 
 ## 💡 What I Learned
 
@@ -46,4 +44,4 @@ tic-tac-toe/
 ## 🙌 Acknowledgments
 
 - 🎥 Tutorial Reference: YouTube tutorial on building Tic Tac Toe in JS  
-- 💻 Code: Fully written by me while following the tutorial step by step  
+- 💻 Code: Written by me while following the tutorial step by step  
