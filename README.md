@@ -2,6 +2,7 @@
 
 A classic Tic Tac Toe game built using HTML, CSS, and JavaScript, created to practice DOM manipulation, event handling, and basic game logic.  
 This project closely follows a YouTube tutorial and doesn’t include major custom improvements — it was made purely to learn game development basics in JS.
+### 🔗 [Live Demo](https://tic-tac-toe-egea.onrender.com)
 
 ## ✨ Features
 
